@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Hang\Desktop\bb\|C:\Users\Hang\Dropbox\public\bb\|C:\Users\TunMacbook\Dropbox\Newest\|C:\Users\TunMacbook\Desktop\BB\|C:\Documents and Settings\Administrator\Desktop\BB\Dropbox\Newest\</PublishUrlHistory>
+    <InstallUrlHistory>https://dl.dropboxusercontent.com/u/10907501/bb/|http://test.bb1555.net/|http://demo.tranbros.com/BB/|http://demo.tranbros.com/App/</InstallUrlHistory>
+    <SupportUrlHistory>http://unknow.com</SupportUrlHistory>
+    <UpdateUrlHistory>http://localhost/Bet Broker/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+</Project>

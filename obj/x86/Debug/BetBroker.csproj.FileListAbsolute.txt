@@ -1,0 +1,11 @@
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\bin\Debug\BetBroker.exe.config
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\BetBroker.csproj.ResolveComReference.cache
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\BetBroker.csprojResolveAssemblyReference.cache
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\iBet.App.ChangePasswordForm.resources
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\iBet.App.FollowSub.resources
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\iBet.App.MainForm.resources
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\iBet.App.TerminalFormIBET3IN1.resources
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\iBet.App.Properties.Resources.resources
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\iBet.App.TerminalFormIBETSBO.resources
+C:\Users\Philipp Lam\Dropbox\Sharing\BB\App\obj\x86\Debug\BetBroker.csproj.GenerateResource.Cache
